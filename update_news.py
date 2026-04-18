@@ -3,7 +3,7 @@ import json
 import os
 
 # CONFIGURATION
-HANDLE = "pescobar-diaz.bsky.social" # Update this to your lab's handle
+HANDLE = "mundaylab.bsky.social" # Update this to your lab's handle
 FILE_NAME = "news.json"
 
 def fetch_posts():
