@@ -42,7 +42,9 @@ def fetch_posts():
             new_count += 1
 
     # Sort Newest First
-    archive.sort(key=lambda x: x['createdAt'], reverse=True)
+    #archive.sort(key=lambda x: x['createdAt'], reverse=True)
+    # This converts createdAt to a string during sorting so they can be compared
+    archive.sort(key=lambda x: str(x.get('createdAt', '')), reverse=True)
     with open(FILE_NAME, 'w') as f:
         json.dump(archive, f, indent=2)
     
