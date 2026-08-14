@@ -1,5 +1,63 @@
 [
   {
+    "cid": "bafyreiacbp2r74dvp4l7d32ydzxyu7evp2oxkchxz457iqmrstc5zuzave",
+    "text": "Our recent work was picked up by @PhysicsWorld:  Experiment suggests the environment matters when deuterium fuses physicsworld.com/a/nuclear-fu... \n#UCDavisEngineering #fusion @ucdavisengineering.bsky.social",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#link",
+            "uri": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/"
+          }
+        ],
+        "index": {
+          "byteEnd": 146,
+          "byteStart": 114
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "UCDavisEngineering"
+          }
+        ],
+        "index": {
+          "byteEnd": 167,
+          "byteStart": 148
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "fusion"
+          }
+        ],
+        "index": {
+          "byteEnd": 175,
+          "byteStart": 168
+        }
+      },
+      {
+        "$type": "app.bsky.richtext.facet",
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#mention",
+            "did": "did:plc:evcds4axfd36thmsoslyytg7"
+          }
+        ],
+        "index": {
+          "byteEnd": 207,
+          "byteStart": 176
+        }
+      }
+    ],
+    "createdAt": "2026-08-13T21:32:24.511Z",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreicsbkr4vvem3okqrdiuqo7tkscc4ujyqxpyydcdbggxxssq42ziky",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3msylsdo23f23"
+  },
+  {
     "cid": "bafyreid6dxjtppxy6ufk3nrv7i4z2d6lnsnwqki5faasvjckuvyq4lnm3m",
     "text": "Munday gives an invited talk about the #Casimir effect with #Metasurfaces at the 2026 @metaconference on #Metamaterials, #PhotonicCrystals, and #Plasmonics.\nmetaconferences.org/META26",
     "facets": [
