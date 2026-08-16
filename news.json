@@ -1,5 +1,50 @@
 [
   {
+    "cid": "bafyreighum2uktdzclrmgbnrcnr6f2kdeuvslavjz424pinglssjdi5wky",
+    "text": "Munday gave an invited talk the @IEEEPhotonics RAPID conference entitled: #Active Control of Optical Response in Emerging Materials for #Nanophotonic and #Quantum Devices.",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Active"
+          }
+        ],
+        "index": {
+          "byteEnd": 81,
+          "byteStart": 74
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Nanophotonic"
+          }
+        ],
+        "index": {
+          "byteEnd": 149,
+          "byteStart": 136
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Quantum"
+          }
+        ],
+        "index": {
+          "byteEnd": 162,
+          "byteStart": 154
+        }
+      }
+    ],
+    "createdAt": "2026-08-15T15:40:02.951Z",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreihg4wq3eautg6dlvhxtf3bssw7yampldfkdcsgu6njt7rsju3htv4",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mt4z24gpgq2y"
+  },
+  {
     "cid": "bafyreiacbp2r74dvp4l7d32ydzxyu7evp2oxkchxz457iqmrstc5zuzave",
     "text": "Our recent work was picked up by @PhysicsWorld:  Experiment suggests the environment matters when deuterium fuses physicsworld.com/a/nuclear-fu... \n#UCDavisEngineering #fusion @ucdavisengineering.bsky.social",
     "facets": [
