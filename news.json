@@ -1,5 +1,63 @@
 [
   {
+    "cid": "bafyreifeedcr3b6tww7u5oyvckw6sutnsdnqenumri5ppvs2cqi4u7nfqy",
+    "text": "Our new manuscript entitled, \"Enhanced nuclear fusion in the sub-keV energy regime\" was published in @NatureComms. \nwww.nature.com/articles/s41...\n#UCDavisEngineering #fusion @ucdavisengineering.bsky.social",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#link",
+            "uri": "https://www.nature.com/articles/s41467-026-74421-1"
+          }
+        ],
+        "index": {
+          "byteEnd": 146,
+          "byteStart": 116
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "UCDavisEngineering"
+          }
+        ],
+        "index": {
+          "byteEnd": 166,
+          "byteStart": 147
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "fusion"
+          }
+        ],
+        "index": {
+          "byteEnd": 174,
+          "byteStart": 167
+        }
+      },
+      {
+        "$type": "app.bsky.richtext.facet",
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#mention",
+            "did": "did:plc:evcds4axfd36thmsoslyytg7"
+          }
+        ],
+        "index": {
+          "byteEnd": 206,
+          "byteStart": 175
+        }
+      }
+    ],
+    "createdAt": "2026-08-31T20:20:29.228Z",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreig7zfrsevbi5l3yx3vc4njeoecg4425b5gpnxe5bjqjm4wcz6xxyy",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3mufq6cmarx23"
+  },
+  {
     "cid": "bafyreighum2uktdzclrmgbnrcnr6f2kdeuvslavjz424pinglssjdi5wky",
     "text": "Munday gave an invited talk the @IEEEPhotonics RAPID conference entitled: #Active Control of Optical Response in Emerging Materials for #Nanophotonic and #Quantum Devices.",
     "facets": [
