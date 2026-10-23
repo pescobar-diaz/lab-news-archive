@@ -1,5 +1,100 @@
 [
   {
+    "cid": "bafyreibibst7aywkahgzc4px2ivujcxr7uqb3g627ssryvqptybilam2fe",
+    "text": "Our collaborative work on Casimir forces using Magnetic fluids was recently featured on the cover of #NanoLetters.\ndoi.org/10.1021/acs.... \n#UCDavisEngineering #photonics #Casimir @ucdavisengineering.bsky.social @pubs.acs.org",
+    "facets": [
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "NanoLetters"
+          }
+        ],
+        "index": {
+          "byteEnd": 113,
+          "byteStart": 101
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#link",
+            "uri": "https://doi.org/10.1021/acs.nanolett.6c02620"
+          }
+        ],
+        "index": {
+          "byteEnd": 138,
+          "byteStart": 115
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "UCDavisEngineering"
+          }
+        ],
+        "index": {
+          "byteEnd": 159,
+          "byteStart": 140
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "photonics"
+          }
+        ],
+        "index": {
+          "byteEnd": 170,
+          "byteStart": 160
+        }
+      },
+      {
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#tag",
+            "tag": "Casimir"
+          }
+        ],
+        "index": {
+          "byteEnd": 179,
+          "byteStart": 171
+        }
+      },
+      {
+        "$type": "app.bsky.richtext.facet",
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#mention",
+            "did": "did:plc:evcds4axfd36thmsoslyytg7"
+          }
+        ],
+        "index": {
+          "byteEnd": 211,
+          "byteStart": 180
+        }
+      },
+      {
+        "$type": "app.bsky.richtext.facet",
+        "features": [
+          {
+            "$type": "app.bsky.richtext.facet#mention",
+            "did": "did:plc:j6dhvqntu3rggfn5ui4hpgar"
+          }
+        ],
+        "index": {
+          "byteEnd": 225,
+          "byteStart": 212
+        }
+      }
+    ],
+    "createdAt": "2026-10-22T17:48:56.576Z",
+    "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmk7rf6gle5s2tfed7ilfaug/bafkreigz3kcaofout2qk6xugfuwmqzkjedsuevp2xlqakewaoapsscvtmu",
+    "uri": "at://did:plc:bmk7rf6gle5s2tfed7ilfaug/app.bsky.feed.post/3myi7x6z5af2v"
+  },
+  {
     "cid": "bafyreifeedcr3b6tww7u5oyvckw6sutnsdnqenumri5ppvs2cqi4u7nfqy",
     "text": "Our new manuscript entitled, \"Enhanced nuclear fusion in the sub-keV energy regime\" was published in @NatureComms. \nwww.nature.com/articles/s41...\n#UCDavisEngineering #fusion @ucdavisengineering.bsky.social",
     "facets": [
